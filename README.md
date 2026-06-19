@@ -63,7 +63,3 @@ This project is open source and available under the MIT License.
 - **1.0.0**: Initial release with basic features and responsive layout
 - **1.1.0**: Added bilingual support and improved interactive elements
 - **1.2.0**: Performance optimizations and bug fixes
-
-## Website Address
-
-- [https://show.markbl.us.ci/](https://show.markbl.us.ci/)
